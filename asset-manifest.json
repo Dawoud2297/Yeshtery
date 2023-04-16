@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Yeshtery/static/css/main.7b89270f.css",
+    "main.js": "/Yeshtery/static/js/main.c1a5c383.js",
+    "static/js/847.daca1fad.chunk.js": "/Yeshtery/static/js/847.daca1fad.chunk.js",
+    "static/js/539.1718f562.chunk.js": "/Yeshtery/static/js/539.1718f562.chunk.js",
+    "index.html": "/Yeshtery/index.html",
+    "static/media/Rectangle 669.svg": "/Yeshtery/static/media/Rectangle 669.cb4aae1ca75629c3bd61.svg",
+    "main.7b89270f.css.map": "/Yeshtery/static/css/main.7b89270f.css.map",
+    "main.c1a5c383.js.map": "/Yeshtery/static/js/main.c1a5c383.js.map",
+    "847.daca1fad.chunk.js.map": "/Yeshtery/static/js/847.daca1fad.chunk.js.map",
+    "539.1718f562.chunk.js.map": "/Yeshtery/static/js/539.1718f562.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b89270f.css",
+    "static/js/main.c1a5c383.js"
+  ]
+}
